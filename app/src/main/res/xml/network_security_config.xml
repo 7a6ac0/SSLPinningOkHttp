@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config>
+        <domain includeSubdomains="true">github.com</domain>
+        <pin digest="SHA-256">pL1+qb9HTMRZJmuC/bB/ZI9d302BYrrqiVuRyW+DGrU=</pin>
+        <!-- backup pin -->
+        <pin digest="SHA-256">RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=</pin>
+    </domain-config>
+</network-security-config>
