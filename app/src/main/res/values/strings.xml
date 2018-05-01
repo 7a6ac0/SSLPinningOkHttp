@@ -9,8 +9,8 @@
     <string name="refused">Connection refused</string>
     <string name="success">Connection OK</string>
     <string-array name="urls">
-        <item>https://certs.cac.washington.edu/CAtest/</item>
-        <item>https://www.httpsnow.org/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
         <item>https://github.com/</item>
     </string-array>
 
